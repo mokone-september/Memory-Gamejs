@@ -29,7 +29,7 @@ Just open `index.html` in your browser.
 
 ## Credits
 
-Food images from [images/](images/) folder.
+Compliments to FreeCodeCamp
 
 ---
 
